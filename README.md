@@ -23,7 +23,7 @@
 
 1. **Python 環境**: Python 3.8+，並安裝依賴套件。
    ```bash
-   pip install aiohttp
+   pip install -r requirements.txt
    ```
 2. **AWS CLI (針對分散式壓測)**: 需安裝 AWS CLI 並配置好權限。
    ```bash
